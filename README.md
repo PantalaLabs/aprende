@@ -1,2 +1,4 @@
 # aprende
-16 track sequencer
+16 track sequencer based on LMNC bnig button idea.
+
+
